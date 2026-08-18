@@ -86,7 +86,7 @@ The complete report with detailed exploitation steps, screenshots, and code fixe
 
 ## Connect with Me
 
-- **GitHub**: [Your GitHub Link]
+- **GitHub**: https://github.com/nayabnoorsmn/WebApp-Security-Assessment
 
 ---
 
